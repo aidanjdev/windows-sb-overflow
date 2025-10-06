@@ -1,4 +1,4 @@
-#General Information
+# General Information
 This exploit was written for the skills assessment portion of Hack the Box
 Academy's Stack-based Buffer Overflows for Windows x86 module. The goal of 
 the module was to make the reader proficient at exploiting stack-based 
@@ -12,7 +12,7 @@ I will not disclose the specific methodologies used to develop this
 exploit as I believe it would rob the reader of the learning opportunity 
 provided by the module.
 
-#Usage Instructions
+# Usage Instructions
 **IMPORTANT:** The payload used inside this exploit, being a reverse shell,
 requires a listening host, and a listening port. That being said, you will
 **NOT** be able to utilize this exploit, as it is, to get a reverse shell 
